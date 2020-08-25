@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#mike {
+  border-radius: 15px;
+  grid-column: 1;
+  grid-row-start: 2;
+  grid-row-end: 5;
+}
+#personalBackground {
+  grid-row: 3;
+}
+#experience {
+  grid-row: 6;
+}
+#programmingLanguages {
+  grid-row: 6;
+}
+#achievements {
+  grid-row: 7;
+}
+#games {
+  grid-row: 7;
+}
