@@ -1,7 +1,7 @@
 .container {
   display: grid;
 }
-img {
+#mike {
   border-radius: 15px;
   width: 100px;
   height: 100px;
